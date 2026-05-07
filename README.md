@@ -5,8 +5,10 @@ Para comenzar creamos un archivo .csv con una pequeña base de datos con cliente
 
 
 <img width="482" height="101" alt="image" src="https://github.com/user-attachments/assets/22bca49f-94fe-49b4-afef-e8a890eda621" />
+Aquí podemos ver el producto creado
 
 <img width="952" height="53" alt="image" src="https://github.com/user-attachments/assets/0ba0c948-da40-4eef-86fb-b1df25e6d60c" />
+En esta imagen podemos ver el pedido del cliente ya realizado
 
 Despues modificamos la parte de presupuesto para que aparezca mas presentable entrando en una vista específica (sale.report_saleorder_document.) que renderiza el esqueleto HTML que luego el motor wkhtmltopdf convierte a PDF.
 
